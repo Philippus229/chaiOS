@@ -1,2 +1,2 @@
 # chaiOS
-chaiOS Bug Clone
+chaiOS Exploit by Abraham Masri (https://github.com/iabem97)
